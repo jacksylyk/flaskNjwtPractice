@@ -1,6 +1,6 @@
 # flaskNjwtPractice
 
-#Authorization with jwt
+# Authorization with jwt
 
 <h2>Installation</h2>
 
